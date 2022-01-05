@@ -1,4 +1,4 @@
-# Banking Management System
+# Desktop Banking
 Project in python with use of Tkinter GUI toolkit and MYSQL
 
 ## Packages required
